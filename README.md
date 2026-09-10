@@ -1,6 +1,6 @@
-# Versão 4 - CRUD de Produtos com PHP e MySQL
+# CRUD de Produtos com PHP e MySQL
 
-Versão final da aplicação web para cadastrar, consultar, editar e excluir produtos. O projeto usa PHP, MySQL e Docker Compose.
+Aplicação web simples para cadastrar, consultar, editar e excluir produtos. O projeto usa PHP, MySQL e Docker Compose.
 
 ## Autores
 
@@ -70,7 +70,6 @@ O volume `mysql-dados` mantém os dados do banco quando os containers são reini
 - Exclusão com confirmação.
 - Máscara monetária no preço.
 - Validação de nome, descrição, preço e estoque.
-- Exibição da data de cadastro na listagem final.
 
 ## Pontos interessantes
 
